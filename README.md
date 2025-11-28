@@ -18,16 +18,8 @@
 
 <br clear="both">
 
-<div align="right">
-  <img height="156" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemtkcXY3dW54Z2s5bmw3cmo3ZmN2a25kbzl4aW9pbGxyZG9vZTN6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btRkeE7RtAq8DnO/giphy.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="right">
-  <img height="158" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnI3aWlhZTlkbjBkMDkyNnBvYzJwdXdlcmQybmI1bDh6NzYxdmlvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ErZ8hv5eO92JW/giphy.gif"  />
+<div align="left">
+  <img height="156" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTV3MHAzbDR6NmRsbGY3M3l6MGhrYTBkMnBjcTA5eXZtYmxscmx1MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UwS3x5PeklFwLQJLHR/giphy.gif"  />
 </div>
 
 ###
@@ -58,3 +50,6 @@
 </div>
 
 ###
+A white circle with a dark file icon outlined in the center
+Profile Readme Generator
+Developed and maintained by Mauro de Souza
