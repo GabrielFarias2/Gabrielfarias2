@@ -18,9 +18,7 @@
 
 <br clear="both">
 
-<div align="left">
-  <img height="156" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTV3MHAzbDR6NmRsbGY3M3l6MGhrYTBkMnBjcTA5eXZtYmxscmx1MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UwS3x5PeklFwLQJLHR/giphy.gif"  />
-</div>
+
 
 ###
 
@@ -50,6 +48,4 @@
 </div>
 
 ###
-A white circle with a dark file icon outlined in the center
-Profile Readme Generator
-Developed and maintained by Mauro de Souza
+
